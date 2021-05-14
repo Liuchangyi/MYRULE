@@ -1,8 +1,8 @@
-vmess = 183.236.57.18:10001, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇭🇰 https://www.mattkaydiary.com|Low Latency!Transit*Guangzhou-HK01
-vmess = 183.236.57.18:10005, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=https://www.mattkaydiary.com|Transit*Guangzhou-Tokyo01
-vmess = 183.236.57.18:10004, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=https://www.mattkaydiary.com|Transit*Guangzhou-LAX01
-vmess = 103.222.190.138:10013, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇹🇷 https://www.mattkaydiary.com|TRANSIT*BGP-Seoul*34
-vmess = 103.222.190.138:10014, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇸🇬 https://www.mattkaydiary.com|TRANSIT*BGP-Singapore*34
-vmess = 139.226.50.32:10005, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇨🇳 https://www.mattkaydiary.com|上海市联通
-vmess = 3.35.218.230:40499, method=chacha20-ietf-poly1305, password=97f6451f-2f12-4737-dc7e-313e6736c3bf, fast-open=false, tag=🇰🇷 https://www.mattkaydiary.com|韩国
-vmess = 13.125.170.43:52091, method=chacha20-ietf-poly1305, password=ef9e00dd-2306-4060-c5fd-d32eabf939b4, fast-open=false, tag=🇰🇷 https://www.mattkaydiary.com|韩国 2
+vmess = 183.236.57.18:10001, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=HK01
+vmess = 183.236.57.18:10005, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=Tokyo01
+vmess = 183.236.57.18:10004, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=-LAX01
+vmess = 103.222.190.138:10013, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇹🇷
+vmess = 103.222.190.138:10014, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇸🇬TRANSIT*BGP-Singapore*34
+vmess = 139.226.50.32:10005, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇨🇳上海市联通
+vmess = 3.35.218.230:40499, method=chacha20-ietf-poly1305, password=97f6451f-2f12-4737-dc7e-313e6736c3bf, fast-open=false, tag=🇰🇷韩国
+vmess = 13.125.170.43:52091, method=chacha20-ietf-poly1305, password=ef9e00dd-2306-4060-c5fd-d32eabf939b4, fast-open=false, tag=🇰🇷韩国 2
