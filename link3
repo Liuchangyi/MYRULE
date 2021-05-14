@@ -1,0 +1,8 @@
+vmess = 8lja5tmvxum7zwxrlnbz.popocloudrelayserver.online:10008, method=chacha20-ietf-poly1305, password=3edb5f3f-1c7e-1459-5b8c-1123cf0a1b1c, obfs=ws, obfs-host=8lja5tmvxum7zwxrlnbz.popocloudrelayserver.online, obfs-uri=/v2ray, fast-open=false, tag=🇸🇬 新加坡 ☆☆  01 ☆AWS☆  1.2x
+vmess = 183.236.57.18:10004, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇺🇸 美国 ☆☆  01 ☆NTT☆   1.2x
+vmess = 40.83.127.12:39000, method=chacha20-ietf-poly1305, password=d8d5eee2-b2c4-3ea0-96ef-cd64f1026107, obfs=ws, obfs-host=40.83.127.12, obfs-uri=/xgr, fast-open=false, tag=🇺🇸 美国 ☆☆  02 ☆NTT☆   1.2x
+vmess = 139.226.50.32:10003, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇺🇸 美国 ☆☆  03 ☆NTT☆   1.2x
+vmess = transite-shcn2-05.iplc188.com:10001, method=chacha20-ietf-poly1305, password=23bed695-ce44-4534-ad0f-b06d5ad4304b, fast-open=false, tag=🇭🇰 香港 ☆☆  01 ☆AWS☆  1.2x
+vmess = bj.keaiyun.xyz:31104, method=chacha20-ietf-poly1305, password=44189341-2cc9-3be9-bb10-c135e98cd8eb, obfs=ws, obfs-host=www.baidu.com, obfs-uri=/v2ray, fast-open=false, tag=🇬🇧 英国 ☆☆ 01 ☆GMO☆  1.2x
+vmess = jp1.direct.iplc.pro:52000, method=chacha20-ietf-poly1305, password=c98fa9b0-2bb4-483d-ab65-94a8f7a1b988, fast-open=false, tag=🇯🇵 日本 ☆☆ 01 ☆GMO☆   1.2x
+vmess = 13.208.248.208:35105, method=chacha20-ietf-poly1305, password=6914f4cc-fa4b-4d5e-9a77-d6f8ea5e2f34, obfs=ws, obfs-host=13.208.248.208, obfs-uri=/, fast-open=false, tag=🇯🇵 日本 ☆☆ 02 ☆GMO☆   1.2x
