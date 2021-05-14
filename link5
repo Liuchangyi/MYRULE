@@ -1,0 +1,61 @@
+vmess = 43.226.26.113:31627, method=chacha20-ietf-poly1305, password=b4d92783-2348-46e6-cf7a-dd45e870a1d2, fast-open=false, tag=🇺🇸 美国  17
+shadowsocks = 138.199.40.169:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, fast-open=false, tag=138.199.40.169:38620
+shadowsocks = 138.199.40.169:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, fast-open=false, tag=138.199.40.169:38742
+vmess = 103.222.190.184:10011, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇭🇰 m|TRANSIT*BGP-Hong-Kong*32
+vmess = 103.222.190.184:10012, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇹🇷 m|TRANSIT*BGP-Tokyo*32
+vmess = 103.222.190.184:10013, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇹🇷 m|TRANSIT*BGP-Seoul*32
+vmess = 103.222.190.184:10014, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇸🇬 m|TRANSIT*BGP-Singapore*32
+vmess = 116.192.169.155:10001, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇨🇳 m|🇨🇳 CN_21
+vmess = 116.192.169.155:10005, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇨🇳 m|🇨🇳 CN_23
+vmess = 116.192.169.155:10002, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇨🇳 m|🇨🇳 CN_24
+vmess = 52.79.228.10:53691, method=chacha20-ietf-poly1305, password=25b4eb9e-647c-4440-98b3-d21958e24577, fast-open=false, tag=🇰🇷 m|🇰🇷KR_1577
+vmess = c-jp-dv1.ooxc.cc:443, method=chacha20-ietf-poly1305, password=f299184b-19e0-41a4-9b4b-65fa8f0e691c, obfs=wss, obfs-host=c-jp-dv1.ooxc.cc, obfs-uri=/jj, fast-open=false, tag=🇯🇵 m|Relay_🇺🇸US-🇯🇵JP_2829
+vmess = shcn2-04.iplc188.com:10005, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇭🇰 m|Relay_🇨🇳CN-🇭🇰HK_779 |24.15Mb
+vmess = shcn2-04.iplc188.com:10001, method=chacha20-ietf-poly1305, password=4346ac21-594c-415f-84cb-40307b7b32fa, fast-open=false, tag=🇭🇰 m|Relay_🇨🇳CN-🇭🇰HK_780 | 6.71Mb
+vmess = 18.177.140.83:28483, method=chacha20-ietf-poly1305, password=1add6694-b56f-4162-b7da-d899612b0608, obfs=ws, obfs-host=18.177.140.83, obfs-uri=/, fast-open=false, tag=m| |36.73Mb
+vmess = jp01.v2net.top:10089, method=chacha20-ietf-poly1305, password=79D0BCA4-67DB-51D3-B497-39D54338AB61, fast-open=false, tag=m|Relay_ |56.74Mb
+vmess = 209.141.49.123:80, method=chacha20-ietf-poly1305, password=4094db3e-5794-4c63-b95a-b4ea754163c5, obfs=ws, obfs-host=209.141.49.123, obfs-uri=/sometimesnaive, fast-open=false, tag=m| |23.65Mb
+vmess = 107.150.5.206:34462, method=chacha20-ietf-poly1305, password=31aaf7bc-a4be-4577-a82c-2ab2afbf4a7b, fast-open=false, tag=🇺🇸 m|美国
+vmess = gonyiazhk2.xiaobaiyun.me:832, method=chacha20-ietf-poly1305, password=2e32aca3-2777-3502-9b0b-6b7b2f4d5a0c, obfs=ws, obfs-host=mgalsj.xiaobaiyun.me, obfs-uri=/hls, fast-open=false, tag=🇭🇰 m|香港
+vmess = cfcn.9sep.org:80, method=chacha20-ietf-poly1305, password=847813df-3761-3cea-ac14-3c745508192e, obfs=ws, obfs-host=nj.sb-cloud.cf, obfs-uri=/w421x2bx2za, fast-open=false, tag=🇺🇸 m|美国 2
+vmess = lax-1.us.liyun.edu.pl:443, method=chacha20-ietf-poly1305, password=847813df-3761-3cea-ac14-3c745508192e, obfs=wss, obfs-host=lax.sb-cloud.cf, obfs-uri=/114515/iuuu, fast-open=false, tag=🇭🇰 m|香港 2
+vmess = gonyiazhk2.xiaobaiyun.me:809, method=chacha20-ietf-poly1305, password=0f385911-1a85-352c-acd8-1f25b724be40, obfs=ws, obfs-host=elsxxbly.xiaobaiyun.me, obfs-uri=/hls, fast-open=false, tag=🇭🇰 m|香港 3
+vmess = 172.67.154.85:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=🇺🇸 m|美国 3
+vmess = 104.21.48.161:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=🇺🇸 m|美国 4
+vmess = cfcn.9sep.org:443, method=chacha20-ietf-poly1305, password=847813df-3761-3cea-ac14-3c745508192e, obfs=wss, obfs-host=de.sb-cloud.cf, obfs-uri=/0wejcsges, fast-open=false, tag=🇺🇸 m|美国 5
+vmess = 104.18.6.138:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=🇺🇸 m|美国 6
+vmess = 104.18.7.138:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=🇺🇸 m|美国 7
+vmess = 52.53.248.216:50299, method=chacha20-ietf-poly1305, password=9e82e46d-fcc7-4c8c-fbe5-66fb764b91d0, fast-open=false, tag=🇺🇸 m|美国 8
+vmess = 43.226.26.113:31627, method=chacha20-ietf-poly1305, password=b4d92783-2348-46e6-cf7a-dd45e870a1d2, fast-open=false, tag=🇺🇸 m|美国 9
+shadowsocks = 91.90.123.155:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=91.90.123.155:31572
+shadowsocks = 68.71.244.208:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=68.71.244.208:31572
+shadowsocks = 139.28.176.53:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=139.28.176.53:31572
+shadowsocks = 143.244.42.86:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=143.244.42.86:31572
+shadowsocks = 143.244.57.99:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=143.244.57.99:39772
+shadowsocks = 212.102.35.218:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=212.102.35.218:31572
+shadowsocks = ffrenzy.tk:11443, method=chacha20-ietf-poly1305, password=543c3bff-3d9b-41b6-800e-a8ae3eb0712a, fast-open=false, tag=ffrenzy.tk:11443
+vmess = 23.224.31.210:443, method=chacha20-ietf-poly1305, password=4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06, obfs=wss, obfs-host=www.53933374.xyz, obfs-uri=/path/270119141029, fast-open=false, tag=🇺🇸 m|adi|0507 - 美国
+vmess = 52.79.228.10:53691, method=chacha20-ietf-poly1305, password=25b4eb9e-647c-4440-98b3-d21958e24577, fast-open=false, tag=🇰🇷 m|adi|0507 - 韩国
+vmess = 128.14.153.42:13723, method=chacha20-ietf-poly1305, password=a90597c1-bab3-4217-ad6f-0838675c8633, obfs=wss, obfs-host=usa2-node.3366test.com, obfs-uri=/ray, fast-open=false, tag=🇺🇸 m|adi|0502 - 美国14
+shadowsocks = 138.199.40.169:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, fast-open=false, tag=138.199.40.169:35294
+shadowsocks = 68.71.244.208:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=68.71.244.208:31572 2
+shadowsocks = 139.28.176.53:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=139.28.176.53:31572 2
+shadowsocks = 91.90.123.155:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=91.90.123.155:31572 2
+vmess = 107.150.5.206:34462, method=chacha20-ietf-poly1305, password=31aaf7bc-a4be-4577-a82c-2ab2afbf4a7b, fast-open=false, tag=e 6
+shadowsocks = 138.199.40.169:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, fast-open=false, tag=138.199.40.169:38742 2
+shadowsocks = 104.244.210.117:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=104.244.210.117:39772
+shadowsocks = 138.199.40.169:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, tag=138.199.40.169:31944
+shadowsocks = 37.120.194.99:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=37.120.194.99:39772
+vmess = 45.88.179.35:42365, method=chacha20-ietf-poly1305, password=085e6815-e476-411a-a9a6-4e5306a1b875, fast-open=false, tag=e 12
+shadowsocks = 37.120.194.91:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=37.120.194.91:33992
+shadowsocks = 37.120.194.91:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=37.120.194.91:39772
+shadowsocks = 188.92.78.145:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, fast-open=false, tag=188.92.78.145:35294
+vmess = c-us3.ooxc.cc:443, method=chacha20-ietf-poly1305, password=db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda, obfs=wss, obfs-host=c-us3.ooxc.cc, obfs-uri=/jj, fast-open=false, tag=e 16
+shadowsocks = 37.120.194.99:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=37.120.194.99:33992
+shadowsocks = 89.187.168.41:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=89.187.168.41:39772
+shadowsocks = 176.227.241.24:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=176.227.241.24:33992
+shadowsocks = 45.134.224.15:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=45.134.224.15:39772
+shadowsocks = 185.2.100.166:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=185.2.100.166:33998
+shadowsocks = 188.92.78.145:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=188.92.78.145:39772
+shadowsocks = 185.2.100.166:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=185.2.100.166:39772
+vmess = 172.104.62.248:80, method=chacha20-ietf-poly1305, password=3c6e2754-9553-4801-bcb2-2043d92a5a0e, obfs=ws, obfs-host=www.um.edu.mo, obfs-uri=/, fast-open=false, tag=172.104.62.248
