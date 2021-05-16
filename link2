@@ -1,34 +1,39 @@
-shadowsocks = 139.28.176.53:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=🇷🇴 罗马尼亚(感谢关注youtube：8度科技)
-shadowsocks = 45.89.173.205:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技)
-shadowsocks = 104.200.131.245:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 2
-shadowsocks = 104.200.131.245:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 3
-shadowsocks = 138.199.40.169:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 4
-shadowsocks = 143.244.42.86:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=(感谢关注youtube：8度科技)
-shadowsocks = 138.199.40.169:34687, method=aes-256-gcm, password=txmK9WhwP6WPhP7hqSBLVxpN, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 5
-shadowsocks = 195.181.171.241:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, tag=(感谢关注youtube：8度科技) 2
-shadowsocks = 81.19.214.37:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=🇬🇧 英国(感谢关注youtube：8度科技)
-shadowsocks = 194.110.115.85:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=🇷🇴 罗马尼亚(感谢关注youtube：8度科技) 2
-shadowsocks = 195.206.169.203:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=🇬🇧 英国(感谢关注youtube：8度科技) 2
-shadowsocks = 89.46.223.239:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 3
-shadowsocks = 82.102.26.91:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=(感谢关注youtube：8度科技) 4
-shadowsocks = 138.199.40.169:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 6
-shadowsocks = 138.199.40.169:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 7
-shadowsocks = 193.29.106.197:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=(感谢关注youtube：8度科技) 5
-shadowsocks = 212.102.35.218:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=(感谢关注youtube：8度科技) 6
-shadowsocks = 188.92.78.145:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, tag=(感谢关注youtube：8度科技) 7
-shadowsocks = 195.181.171.241:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 8
-shadowsocks = 188.92.78.145:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=🇺🇸 欧美(感谢关注youtube：8度科技)
-shadowsocks = 188.92.78.145:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, tag=🇺🇸 欧美(感谢关注youtube：8度科技) 2
-shadowsocks = 188.92.78.145:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=中东(感谢关注youtube：8度科技)
-shadowsocks = 188.92.78.203:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=(感谢关注youtube：8度科技) 9
-shadowsocks = 68.71.244.208:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=🇨🇦 加拿大(感谢关注youtube：8度科技)
-shadowsocks = 188.92.78.203:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=(感谢关注youtube：8度科技) 10
-shadowsocks = 143.244.56.230:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=🇫🇷 法国(感谢关注youtube：8度科技)
-shadowsocks = 143.244.57.99:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 8
-shadowsocks = 185.2.100.166:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=(感谢关注youtube：8度科技) 11
-shadowsocks = 207.244.67.149:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=(感谢关注youtube：8度科技) 12
-shadowsocks = 207.244.67.149:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 9
-shadowsocks = 185.2.100.166:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 13
-shadowsocks = 207.244.67.149:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 10
-shadowsocks = 2.58.242.43:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 14
-shadowsocks = 185.2.100.166:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=(感谢关注youtube：8度科技) 15
+vmess = jp01.v2net.top:10089, method=chacha20-ietf-poly1305, password=79D0BCA4-67DB-51D3-B497-39D54338AB61, fast-open=false, tag=(感谢关注youtube：8度科技)
+vmess = 23.224.31.210:443, method=chacha20-ietf-poly1305, password=4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06, obfs=wss, obfs-host=www.53933374.xyz, obfs-uri=/path/270119141029, fast-open=false, tag=(感谢关注youtube：8度科技) 2
+shadowsocks = 185.44.76.188:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, fast-open=false, tag=(感谢关注youtube：8度科技) 3
+vmess = 107.150.5.206:34462, method=chacha20-ietf-poly1305, password=31aaf7bc-a4be-4577-a82c-2ab2afbf4a7b, fast-open=false, tag=(感谢关注youtube：8度科技) 4
+vmess = cdnde.irteyz.today:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=(感谢关注youtube：8度科技) 5
+vmess = 104.18.7.138:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=(感谢关注youtube：8度科技) 6
+shadowsocks = 194.110.115.251:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 7
+vmess = 107.150.5.206:34462, method=chacha20-ietf-poly1305, password=31aaf7bc-a4be-4577-a82c-2ab2afbf4a7b, fast-open=false, tag=(感谢关注youtube：8度科技) 8
+vmess = 43.226.26.113:31627, method=chacha20-ietf-poly1305, password=b4d92783-2348-46e6-cf7a-dd45e870a1d2, fast-open=false, tag=(感谢关注youtube：8度科技) 9
+shadowsocks = 195.181.171.241:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 10
+shadowsocks = 91.90.121.163:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=(感谢关注youtube：8度科技) 11
+shadowsocks = 154.127.50.138:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=(感谢关注youtube：8度科技) 12
+shadowsocks = 2.58.242.43:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 13
+vmess = 204.44.68.71:36777, method=chacha20-ietf-poly1305, password=d70cc1b3-e7e8-4b88-a24e-c91f001fd69e, fast-open=false, tag=(感谢关注youtube：8度科技) 14
+shadowsocks = 2.58.242.43:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, tag=(感谢关注youtube：8度科技) 15
+vmess = 45.12.110.8:45458, method=chacha20-ietf-poly1305, password=c169c268-7e51-4564-bcf5-271b8e49e141, fast-open=false, tag=(感谢关注youtube：8度科技) 16
+shadowsocks = 191.96.73.232:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=🇺🇸 US(感谢关注youtube：8度科技)
+shadowsocks = 191.96.73.232:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=🇺🇸 US(感谢关注youtube：8度科技) 2
+shadowsocks = 62.212.239.53:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=AZ(感谢关注youtube：8度科技)
+shadowsocks = 185.124.240.149:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=(感谢关注youtube：8度科技) 17
+vmess = 23.224.164.100:443, method=chacha20-ietf-poly1305, password=d25a6583-52ca-496f-87ae-f2275b3b0ddd, obfs=wss, obfs-host=www.09025120.xyz, obfs-uri=/path/160317342506, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技)
+vmess = free-russian01-cdn.xiaohouzi.club:80, method=chacha20-ietf-poly1305, password=3d31728e-064d-42b8-b945-f79c008f73fc, obfs=ws, obfs-host=free-russian01-cdn.xiaohouzi.club, obfs-uri=/, fast-open=false, tag=🇷🇺 俄罗斯(感谢关注youtube：8度科技)
+shadowsocks = ss.ca.sshmax.net:1443, method=chacha20-ietf-poly1305, password=r4TeEt5bK0UD, fast-open=false, tag=🇨🇦 加拿大(感谢关注youtube：8度科技)
+vmess = 23.225.213.242:443, method=chacha20-ietf-poly1305, password=11c703a8-f3eb-4b3a-bc9b-2539c6ac6796, obfs=wss, obfs-host=www.16789312.xyz, obfs-uri=/path/160317342506, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 2
+vmess = 104.18.6.138:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 3
+vmess = 104.21.48.161:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 4
+vmess = 172.67.154.85:443, method=chacha20-ietf-poly1305, password=3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, obfs=wss, obfs-host=cdnde.irteyz.today, obfs-uri=/, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 5
+vmess = 52.255.146.242:28380, method=chacha20-ietf-poly1305, password=a232e331-bff8-48d4-f9a6-2436cf41aa26, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 6
+shadowsocks = 104.200.131.245:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 7
+vmess = 104.16.181.15:443, method=chacha20-ietf-poly1305, password=1a54e756-d454-45a0-aefa-e9514e1da1f1, obfs=wss, obfs-host=vincent-jackson2021.cf, obfs-uri=/The-Great-Awakening_vws, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 8
+vmess = 43.226.26.113:31627, method=chacha20-ietf-poly1305, password=b4d92783-2348-46e6-cf7a-dd45e870a1d2, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 9
+vmess = 52.255.146.242:28380, method=chacha20-ietf-poly1305, password=a232e331-bff8-48d4-f9a6-2436cf41aa26, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 10
+vmess = 45.88.179.35:35497, method=chacha20-ietf-poly1305, password=085e6815-e476-411a-a9a6-4e5306a1b875, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 11
+shadowsocks = 104.200.131.245:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 12
+vmess = 45.88.179.35:35497, method=chacha20-ietf-poly1305, password=085e6815-e476-411a-a9a6-4e5306a1b875, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 13
+shadowsocks = 207.244.67.149:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 14
+shadowsocks = 207.244.67.149:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 15
+vmess = 23.225.165.242:443, method=chacha20-ietf-poly1305, password=34f8dd2e-55f0-4d95-bfda-714f50b6c0e1, obfs=wss, obfs-host=www.10925848.xyz, obfs-uri=/path/160317342506, fast-open=false, tag=🇺🇸 美国(感谢关注youtube：8度科技) 16
+shadowsocks = 185.44.76.188:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=欧洲(感谢关注youtube：8度科技)
