@@ -1,0 +1,12 @@
+vmess = 16.162.89.141:50513, method=chacha20-ietf-poly1305, password=3ecea5c1-e911-42eb-807b-9f53aefd7c20, fast-open=false, tag=34
+vmess = 52.184.14.94:23102, method=chacha20-ietf-poly1305, password=6c8e5d59-fe33-4d60-a2ce-8fe900bc1c49, fast-open=false, tag=223
+vmess = 18.179.108.139:17718, method=chacha20-ietf-poly1305, password=d74b092c-800b-40eb-e926-a48bfdc34cdb, fast-open=false, tag=wewe
+vmess = 18.183.181.201:22983, method=chacha20-ietf-poly1305, password=a8db1f1d-0def-4900-8fb8-7be74ec75d40, fast-open=false, tag=sdasd
+vmess = 54.180.120.21:45033, method=chacha20-ietf-poly1305, password=1ccb31b9-6b05-4763-90c4-e3bb6c29075d, fast-open=false, tag=1111111
+vmess = 13.125.246.176:57144, method=chacha20-ietf-poly1305, password=6ee326f7-8ca5-4545-8d60-0de612ea041f, fast-open=false, tag=222222222
+vmess = 45.88.42.22:54068, method=chacha20-ietf-poly1305, password=83f7d4a0-a787-4cff-fb37-fa9e556b24d4, fast-open=false, tag=2323
+vmess = 54.215.234.182:14924, method=chacha20-ietf-poly1305, password=d099824d-8259-4c45-f6ab-c1896f741393, fast-open=false, tag=adsad
+vmess = 52.53.210.70:56867, method=chacha20-ietf-poly1305, password=6208032f-922b-4e21-eb62-ecd643b1675f, fast-open=false, tag=asdsa 2
+vmess = 52.53.154.161:13275, method=chacha20-ietf-poly1305, password=efbe7912-be81-44e3-870f-222c5fb053e4, fast-open=false, tag=asdasd
+vmess = 193.42.96.98:30104, method=chacha20-ietf-poly1305, password=c7d03e59-8fff-463e-9589-9f8099d3e366, fast-open=false, tag=meiguov1
+vmess = 95.214.55.119:16408, method=chacha20-ietf-poly1305, password=4e49e7c6-b7cd-4c74-c022-2add80a19556, fast-open=false, tag=sdasd 2
