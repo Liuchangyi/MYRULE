@@ -3,14 +3,6 @@ vmess = 20.203.6.201:55573, method=chacha20-ietf-poly1305, password=57cd85a2-ebd
 vmess = 15.184.167.171:24527, method=chacha20-ietf-poly1305, password=f1dc9b61-017e-4909-a9b4-19b8d3c7cae1, fast-open=false, udp-relay=false, tag=777777
 vmess = 193.31.116.230:48003, method=chacha20-ietf-poly1305, password=4d274187-109a-44df-bb55-b2c84eb03ba7, fast-open=false, udp-relay=false, tag=tuerqi
 vmess = 185.247.138.25:15079, method=chacha20-ietf-poly1305, password=a1d846ec-9bef-4ffd-e34a-43bb06323ac3, fast-open=false, udp-relay=false, tag=546456
-vmess = 212.80.205.133:31262, method=chacha20-ietf-poly1305, password=00415a68-d5eb-4573-b73e-2b21f6b45c5d, fast-open=false, udp-relay=false, tag=98080
-vmess = 52.184.14.94:23102, method=chacha20-ietf-poly1305, password=6c8e5d59-fe33-4d60-a2ce-8fe900bc1c49, fast-open=false, udp-relay=false, tag=223
-vmess = 20.204.11.95:15625, method=chacha20-ietf-poly1305, password=7a4c5cd4-05e3-434d-ae41-7747714cb3be, fast-open=false, udp-relay=false, tag=78978987
-vmess = 13.126.35.201:21465, method=chacha20-ietf-poly1305, password=57034ff6-cc66-435c-badf-1a799227d7be, fast-open=false, udp-relay=false, tag=sdfsdfsdf
-vmess = 13.125.249.11:21534, method=chacha20-ietf-poly1305, password=0ef8a9d9-af9b-484f-d144-f432baf6964a, fast-open=false, udp-relay=false, tag=werwer
-vmess = 45.88.42.22:54068, method=chacha20-ietf-poly1305, password=83f7d4a0-a787-4cff-fb37-fa9e556b24d4, fast-open=false, udp-relay=false, tag=2323
-vmess = 54.169.101.136:48623, method=chacha20-ietf-poly1305, password=404b831b-ff94-4793-b433-34c5b48dc73e, fast-open=false, udp-relay=false, tag=3435
-vmess = 54.215.234.182:14924, method=chacha20-ietf-poly1305, password=d099824d-8259-4c45-f6ab-c1896f741393, fast-open=false, udp-relay=false, tag=adsad
 vmess = 52.53.210.70:56867, method=chacha20-ietf-poly1305, password=6208032f-922b-4e21-eb62-ecd643b1675f, fast-open=false, udp-relay=false, tag=asdsa
 vmess = 52.53.154.161:13275, method=chacha20-ietf-poly1305, password=efbe7912-be81-44e3-870f-222c5fb053e4, fast-open=false, udp-relay=false, tag=asdasd
 vmess = 193.42.96.98:30104, method=chacha20-ietf-poly1305, password=c7d03e59-8fff-463e-9589-9f8099d3e366, fast-open=false, udp-relay=false, tag=meiguov1
