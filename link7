@@ -1,6 +1,6 @@
 shadowsocks = 185.44.76.188:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, fast-open=false, udp-relay=false, tag=185.44.76.188:31764
 shadowsocks = 185.44.76.188:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, udp-relay=false, tag=185.44.76.188:31572
-%shadowsocks = 195.47.194.42:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！)
+;shadowsocks = 195.47.194.42:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！)
 shadowsocks = 195.47.194.42:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 2
 shadowsocks = 195.47.194.42:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 3
 shadowsocks = 198.147.22.87:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 4
