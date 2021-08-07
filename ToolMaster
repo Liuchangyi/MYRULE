@@ -1,0 +1,69 @@
+shadowsocks = 91.90.123.115:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, fast-open=false, udp-relay=false, tag=罗马(Youtube频道：工具大师！)
+vmess = 154.84.1.217:443, method=chacha20-ietf-poly1305, password=130c9f2e-42b1-4ebf-b345-e26456a061f9, obfs=wss, obfs-host=www.05222027.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！)
+;shghadowsocks = 195.47.194.42:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！)
+;shadowsocks = 198.8.92.84:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！)
+vmess = 211.23.132.124:9233, method=chacha20-ietf-poly1305, password=be58f4e4-894a-47ee-8836-cf75e74fa9c9, obfs=ws, obfs-host=211.23.132.124, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇹🇼 台湾(Youtube频道：工具大师！)
+shadowsocks = 89.187.168.39:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, udp-relay=false, tag=捷克(Youtube频道：工具大师！)
+vmess = 46.182.107.45:443, method=chacha20-ietf-poly1305, password=fe5f69e7-e183-439b-950b-9661ef0651f2, obfs=wss, obfs-host=www.68737987.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！) 2
+vmess = 46.182.107.37:443, method=chacha20-ietf-poly1305, password=65ea6727-4461-47a7-a5c4-fef2c67f2f79, obfs=wss, obfs-host=www.09462550.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！) 3
+;shadowsocks = 51.75.141.238:1443, method=chacha20-ietf-poly1305, password=6nhHHuGHw2D5, fast-open=false, udp-relay=false, tag=🇫🇷 法国(Youtube频道：工具大师！)
+shadowsocks = 198.8.92.84:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 2
+vmess = 107.167.9.124:443, method=chacha20-ietf-poly1305, password=2566d00f-218c-48f7-9a36-13d3d6f1a724, obfs=wss, obfs-host=www.17080100.xyz, obfs-uri=/path/310910211916, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 3
+shadowsocks = 139.99.201.56:1443, method=chacha20-ietf-poly1305, password=kRAxb8hPUxS0, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 2
+vmess = 46.182.107.154:443, method=chacha20-ietf-poly1305, password=130c9f2e-42b1-4ebf-b345-e26456a061f9, obfs=wss, obfs-host=www.05222027.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！) 4
+vmess = 46.182.107.157:443, method=chacha20-ietf-poly1305, password=20b30916-e203-412e-8ec0-900f3acd5128, obfs=wss, obfs-host=www.73345741.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！) 5
+vmess = 46.182.107.93:443, method=chacha20-ietf-poly1305, password=743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, obfs=wss, obfs-host=www.54872833.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！) 6
+shadowsocks = ss.au.sshmax.net:1443, method=chacha20-ietf-poly1305, password=kRAxb8hPUxS0, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 3
+vmess = 46.182.107.165:443, method=chacha20-ietf-poly1305, password=d3133484-f2bf-4b0c-8d38-f8e645b65687, obfs=wss, obfs-host=www.07890885.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！) 7
+vmess = 46.182.107.39:443, method=chacha20-ietf-poly1305, password=d3133484-f2bf-4b0c-8d38-f8e645b65687, obfs=wss, obfs-host=www.07890885.xyz, obfs-uri=/footers, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰(Youtube频道：工具大师！) 8
+shadowsocks = 45.83.91.133:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=捷克(Youtube频道：工具大师！) 2
+shadowsocks = 138.199.16.137:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 4
+shadowsocks = 185.44.76.188:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 5
+shadowsocks = 185.153.151.98:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 6
+;shadowsocks = 185.76.9.41:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 7
+;shadowsocks = 195.47.194.70:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 8
+shadowsocks = 199.10.64.101:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 9
+;shadowsocks = 45.12.221.179:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 10
+;shadowsocks = 5.187.49.187:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 11
+;shadowsocks = 5.187.49.189:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 12
+shadowsocks = 61.14.210.232:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 13
+;shadowsocks = 89.238.130.251:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 14
+shadowsocks = 89.37.95.27:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 15
+shadowsocks = 91.205.230.160:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 16
+;shadowsocks = 185.108.106.69:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 17
+;shadowsocks = 91.239.207.224:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 18
+;trojan = us2.paopao.cf:443, password=7f6b65e4-6d5b-4137-a1dc-d32f4a810239, over-tls=true, tls-host=us2.paopao.cf, fast-open=false, udp-relay=false, tls-verification=true, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 19
+shadowsocks = 51.89.99.59:800, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 20
+shadowsocks = 51.195.118.69:21474, method=chacha20-ietf-poly1305, password=cWv8FcJk0VpS, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 21
+;shadowsocks = 195.12.49.82:807, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 22
+;shadowsocks = 188.241.83.130:809, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 23
+shadowsocks = ss.de.sshmax.net:21474, method=chacha20-ietf-poly1305, password=HgCMlgbtQMxl, fast-open=false, udp-relay=false, tag=🇫🇷 法国(Youtube频道：工具大师！) 2
+shadowsocks = ss.de.sshmax.net:21474, method=chacha20-ietf-poly1305, password=cWv8FcJk0VpS, fast-open=false, udp-relay=false, tag=🇫🇷 法国(Youtube频道：工具大师！) 3
+shadowsocks = 193.29.106.5:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=罗马(Youtube频道：工具大师！) 2
+;shadowsocks = 193.29.106.59:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, fast-open=false, udp-relay=false, tag=罗马(Youtube频道：工具大师！) 3
+;shadowsocks = 193.29.106.59:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, fast-open=false, udp-relay=false, tag=罗马(Youtube频道：工具大师！) 4
+shadowsocks = 107.181.177.181:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 4
+;shadowsocks = 148.72.174.38:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 5
+;shadowsocks = 156.146.62.46:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 6
+;shadowsocks = 184.170.243.197:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 7
+;shadowsocks = 198.147.22.87:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 8
+shadowsocks = 198.8.92.84:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 9
+;shadowsocks = 199.58.187.8:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 10
+;shadowsocks = 207.244.127.116:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 11
+shadowsocks = 23.82.11.49:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 12
+shadowsocks = 23.82.11.49:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 13
+shadowsocks = 45.43.14.75:31757, method=aes-256-gcm, password=wj7nDCuNARchSeKNCN8VFK62, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 14
+;shadowsocks = 63.141.236.245:45746, method=aes-256-gcm, password=wEsFcHCvbL4eJkL4DZQa7RgR, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 15
+shadowsocks = 66.115.147.89:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 16
+;shadowsocks = 66.115.175.50:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 17
+;shadowsocks = 66.115.177.153:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇺🇸 美国(Youtube频道：工具大师！) 18
+;shadowsocks = 165.231.163.21:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 24
+;shadowsocks = 165.231.163.21:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 25
+shadowsocks = 165.231.163.7:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 26
+;shadowsocks = 217.138.202.21:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 27
+shadowsocks = 217.138.219.229:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 28
+;shadowsocks = 37.120.142.131:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 29
+;shadowsocks = 37.120.213.3:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 30
+shadowsocks = 51.195.118.69:21474, method=chacha20-ietf-poly1305, password=1XXt06gCx0SK, fast-open=false, udp-relay=false, tag=🇪🇺 欧洲(Youtube频道：工具大师！) 31
+;shadowsocks = 103.156.50.119:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=false, tag=🇮🇳 印度(Youtube频道：工具大师！)
+;shadowsocks = 103.94.27.181:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=false, tag=🇮🇳 印度(Youtube频道：工具大师！) 2
